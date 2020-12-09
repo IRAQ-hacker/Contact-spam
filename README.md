@@ -9,29 +9,37 @@
  # two install this 
 
 ```
-pkg install update && pkg install upgrade -y
+1- :
+A- pkg install update && pkg install upgrade -y
 
 or 
 
-apt update && apt upgrade -y
+B- apt update && apt upgrade -y
 
-pkg install git 
+2- pkg install git 
 
-git clone https://github.com/IRAQ-hacker/Contact-spam
+3- git clone https://github.com/IRAQ-hacker/Contact-spam
 
-pkg install php 
+4- pkg install php 
 
-cd Contact-spam
+5- cd Contact-spam
 
-unzip Contact.zip
+6- unzip Contact.zip
+
 ```
 
 # Run Script 
 
 ```
 
-bash hello.sh
+7- bash hello.sh
 
 ```
 
+# Any Questions :
+
+[![account](https://img.shields.io/badge/account%20-%20telegram-yellowred)](https://t.me/iiwiw)
+
+
+[![TELEGRAM](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/Professional_school)
 
