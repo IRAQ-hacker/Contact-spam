@@ -3,6 +3,10 @@
 
 ### TEST 7
  This script is for test ok
+ 
+ # first  install Ngrok or Server.net ok 
+ 
+ # two install this 
 
 ```
 pkg install update && pkg install upgrade -y
@@ -20,6 +24,11 @@ pkg install php
 cd Contact-spam
 
 unzip Contact.zip
+```
+
+# Run Script 
+
+```
 
 bash hello.sh
 
