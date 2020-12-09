@@ -2,7 +2,7 @@
 
 
 ### TEST 7
-
+ This script is for test ok
 
 ```
 
@@ -12,4 +12,10 @@ pkg install php
 
 cd Contact-spam
 
-unzip 
+unzip Contact.zip
+
+bash hello.sh
+
+```
+
+
